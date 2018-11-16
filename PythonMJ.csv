@@ -1,0 +1,9 @@
+TICKER,Company,T_Assets,T_Liabilities,Debt,Intangible_Assets,Equity,Debt_covered_by_Equity,Marketable_Assets,Marketable_Equity,Debt_covered_by_Marketable_Equity
+T,ATT,444097,302090,151346,0,,,,,
+FB,Facebook,84524,10177,6417,20105,,,,,
+GE,GeneralElectric,371738,286352,179311,143632,,,,,
+WY,WeyerhaeuserCo,17791,8892,6503,325,,,,,
+XOM,ExxonMobil,348691,154191,69229,0,,,,,
+F,FordMotor,247734,212030,172179,0,,,,,
+BUD,AnheuserBusch,244910,164690,116499,186814,,,,,
+CVG,Chevron,545000,405000,160300,289000,,,,,
